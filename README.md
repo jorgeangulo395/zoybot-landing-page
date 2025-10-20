@@ -1,1 +1,1 @@
-Proyecto Zoybot Landing Page.
+Proyecto Zoybot Landing Page
